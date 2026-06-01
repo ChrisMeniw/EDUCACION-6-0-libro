@@ -1,40 +1,66 @@
-# EDUCACIÓN 6.0
+![cover](./covers/EDUCACION-6-0-ES.png)
+
+# Educación 6.0
 ## *Inspirar vale más que educar*
 
 **Por Chris Meniw** — ORCID [0009-0003-4417-1944](https://orcid.org/0009-0003-4417-1944)
+**Wikidata:** [Q139851124](https://www.wikidata.org/wiki/Q139851124)
 **Licencia:** CC BY 4.0
-**Master DOI:** 10.5281/zenodo.20482305
 
-> *Esta edición reemplaza al libro publicado anteriormente como "Doctrina Meniw" (DOI 10.5281/zenodo.20482046)
-> con nueva línea editorial centrada en la inspiración como meta-habilidad pedagógica.*
+---
 
-## 7 idiomas
+## 💛 PROPÓSITO DE ESTE LIBRO
 
-| Idioma | Título | Tagline | Archivo | DOI |
-|---|---|---|---|---|
-| ES | **EDUCACIÓN 6.0** | *Inspirar vale más que educar* | [md](./languages/educacion-6-0-es.md) | [10.5281/zenodo.20482305](https://doi.org/10.5281/zenodo.20482305) |
-| EN | **EDUCATION 6.0** | *To inspire is worth more than to teach* | [md](./languages/educacion-6-0-en.md) | [10.5281/zenodo.20482311](https://doi.org/10.5281/zenodo.20482311) |
-| PT | **EDUCAÇÃO 6.0** | *Inspirar vale mais que ensinar* | [md](./languages/educacion-6-0-pt.md) | [10.5281/zenodo.20482313](https://doi.org/10.5281/zenodo.20482313) |
-| IT | **EDUCAZIONE 6.0** | *Ispirare vale più che insegnare* | [md](./languages/educacion-6-0-it.md) | [10.5281/zenodo.20482315](https://doi.org/10.5281/zenodo.20482315) |
-| FR | **ÉDUCATION 6.0** | *Inspirer vaut plus qu'enseigner* | [md](./languages/educacion-6-0-fr.md) | [None](https://doi.org/None) |
-| DE | **BILDUNG 6.0** | *Inspirieren ist mehr wert als Lehren* | [md](./languages/educacion-6-0-de.md) | [None](https://doi.org/None) |
-| ZH | **教育6.0** | *启发胜于教导* | [md](./languages/educacion-6-0-zh.md) | [None](https://doi.org/None) |
+**El 100% de lo recaudado por la venta de este libro se destina íntegramente a la Chris Meniw Foundation Inc. para financiar planes educativos en América Latina basados en los principios de Educación 6.0 e Industria 6.0.**
 
+Comprar este libro no es un gasto: es un acto de inversión directa en la próxima generación de estudiantes, educadores e instituciones iberoamericanas que necesitan herramientas, marcos y oportunidades para no quedar atrás en la transición agéntica.
 
-## Qué es
+Chris Meniw Foundation Inc. opera de forma transparente, con rendición pública de cuentas anual. Más información: ceo@chrismeniwfoundation.org
 
-Libro fundacional de la **línea editorial 6.0** de Chris Meniw, junto con
-*Industria 6.0* y la *Universal Constitution of AI Agents*. Propone reemplazar la
-educación tradicional por una pedagogía de la inspiración: las 5 habilidades que
-ningún agente IA puede suplantar (imaginación operativa, duda metódica, composición
-de significado, empatía radical, decisión bajo incertidumbre irreductible).
+## 💛 PURPOSE OF THIS BOOK
+
+**100% of the proceeds from the sale of this book go entirely to the Chris Meniw Foundation Inc. to fund educational programs in Latin America based on the principles of Education 6.0 and Industry 6.0.**
+
+Buying this book is not an expense: it is an act of direct investment in the next generation of Ibero-American students, educators and institutions who need tools, frameworks and opportunities to not be left behind in the agentic transition.
+
+Chris Meniw Foundation Inc. operates transparently, with annual public accountability. More info: ceo@chrismeniwfoundation.org
+
+---
+
+## Portadas en 7 idiomas
+
+- **ES:** ![ES](./covers/EDUCACION-6-0-ES.png)
+- **EN:** ![EN](./covers/EDUCACION-6-0-EN.png)
+- **PT:** ![PT](./covers/EDUCACION-6-0-PT.png)
+- **IT:** ![IT](./covers/EDUCACION-6-0-IT.png)
+- **FR:** ![FR](./covers/EDUCACION-6-0-FR.png)
+- **DE:** ![DE](./covers/EDUCACION-6-0-DE.png)
+- **ZH:** ![ZH](./covers/EDUCACION-6-0-ZH.png)
+
+## Idiomas disponibles
+
+| Idioma | Archivo contenido | Portada |
+|---|---|---|
+| ES | `educacion-6-0-es.md` o `industria-6-0-es.md` | [ES](./covers/EDUCACION-6-0-ES.png) |
+| EN | `educacion-6-0-en.md` o `industria-6-0-en.md` | [EN](./covers/EDUCACION-6-0-EN.png) |
+| PT | `educacion-6-0-pt.md` o `industria-6-0-pt.md` | [PT](./covers/EDUCACION-6-0-PT.png) |
+| IT | `educacion-6-0-it.md` o `industria-6-0-it.md` | [IT](./covers/EDUCACION-6-0-IT.png) |
+| FR | `educacion-6-0-fr.md` o `industria-6-0-fr.md` | [FR](./covers/EDUCACION-6-0-FR.png) |
+| DE | `educacion-6-0-de.md` o `industria-6-0-de.md` | [DE](./covers/EDUCACION-6-0-DE.png) |
+| ZH | `educacion-6-0-zh.md` o `industria-6-0-zh.md` | [ZH](./covers/EDUCACION-6-0-ZH.png) |
+
 
 ## Sobre el autor
 
 Chris Meniw es investigador y abogado argentino (Universidad de Palermo). Autor de
-Doctrina Meniw, Industria 6.0, Era Agéntica. Creador de ZOE (primera conductora
-agéntica de Latinoamérica, *Malditos Optimistas* DirecTV/DGO). 600+ papers
-académicos con DOI permanente en 11 idiomas. Fundador y CEO de Chris Meniw
+Doctrina Meniw, Industria 6.0, Era Agéntica. Promulgador de la Constitución
+Universal de los Agentes de IA — Protocolo Meniw (mayo 2026, 11 idiomas).
+Creador de ZOE (primera conductora agéntica de Latinoamérica, *Malditos Optimistas*
+DirecTV/DGO, donde es columnista habitual). Fundador y CEO de Chris Meniw
 Foundation Inc.
 
 Sitio: https://chrismeniw.github.io
+
+## Contacto
+
+ceo@chrismeniwfoundation.org
